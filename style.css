@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background: url('background.jpg');
+    background-size: cover;
+    background-position: center;
+}
+header{
+    margin: auto;
+    padding: 20px;
+    width: 50%;
+    text-align: center;
+}
+#description{
+    font-size: 25px;
+    font-weight: 50;
+}
+#survey-form{
+    margin: auto;
+    padding: 20px;
+    width: 40%;
+    background-color: #131418;
+    opacity: 0.8;
+    border-radius: 10px;
+    color: #ffffff;
+}
+#submit{
+    width: 100%;
+}
